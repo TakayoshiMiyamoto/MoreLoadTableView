@@ -1,21 +1,37 @@
-About
-========
+# MoreLoadTableView
 
 MoreLoadTableView is more load UITableView.
-iOS7 later.
 
-Usage
-========
+## Screens
 
-Include the MoreLoadTableView class in your project.
+![screen1](https://github.com/TakayoshiMiyamoto/MoreLoadTableView/blob/master/images/screen1.png)
+![screen2](https://github.com/TakayoshiMiyamoto/MoreLoadTableView/blob/master/images/screen2.png)
 
-```` objective-c
-// import header file.
+## Requirements
+
+- iOS7.1+
+
+## Install
+
+MoreLoadTableView is available on cocoapods.
+
+```ruby
+pod 'MoreLoadTableView'
+```
+
+or include the MoreLoadTableView class in your project.
+
+## Usage
+
+### Swift
+
+import header file.
+
+``` objective-c
 #import "MoreLoadTableView.h"
-````
+```
 
-Swift
-```` swift
+``` swift
 @IBOutlet weak var tableView: MoreLoadTableView!
 
 override func viewDidLoad() {
@@ -65,10 +81,9 @@ func moreLoadTableViewCell(cell: AutoreleasingUnsafeMutablePointer<UITableViewCe
 
 func moreLoadTableView(tableView: MoreLoadTableView!, didSelectRowAtIndexPath indexPath: NSIndexPath!) {
 }
-````
+```
 
-License
-========
+## License
 
 This MoreLoadTableView is released under the MIT License.
 See [LICENSE](/LICENSE) for details.

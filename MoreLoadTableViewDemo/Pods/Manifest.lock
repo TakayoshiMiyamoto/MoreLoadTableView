@@ -1,0 +1,14 @@
+PODS:
+  - MoreLoadTableView (0.0.1)
+
+DEPENDENCIES:
+  - MoreLoadTableView (from `..`)
+
+EXTERNAL SOURCES:
+  MoreLoadTableView:
+    :path: ..
+
+SPEC CHECKSUMS:
+  MoreLoadTableView: dca95ffe1d94556b8c165f7def51a4de3e97185f
+
+COCOAPODS: 0.35.0
