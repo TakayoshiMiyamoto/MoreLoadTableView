@@ -4,8 +4,8 @@ MoreLoadTableView is more load UITableView.
 
 ## Screens
 
-![screen1](https://github.com/TakayoshiMiyamoto/MoreLoadTableView/blob/master/images/screen1.png)
-![screen2](https://github.com/TakayoshiMiyamoto/MoreLoadTableView/blob/master/images/screen2.png)
+<img src="https://github.com/TakayoshiMiyamoto/MoreLoadTableView/blob/master/images/screen1.png" width="230px">
+<img src="https://github.com/TakayoshiMiyamoto/MoreLoadTableView/blob/master/images/screen2.png" width="230px">
 
 ## Requirements
 
