@@ -1,5 +1,7 @@
 # MoreLoadTableView
 
+[![CocoaPods](https://img.shields.io/cocoapods/v/MoreLoadTableView.svg)](https://github.com/TakayoshiMiyamoto/MoreLoadTableView)
+
 MoreLoadTableView is more load UITableView.
 
 ## Screens
